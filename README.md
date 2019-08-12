@@ -17,4 +17,4 @@ python binHeatmap.py -s ../data/merbin_IBD_allparent.txt -b ../data/mergbin_info
 
 结果示意图:
 
-![结果示意图](output/1-1.png"chr1")
+![结果示意图](output/1-1.png "chr1")
