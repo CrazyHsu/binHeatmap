@@ -14,3 +14,6 @@ python binHeatmap.py -h
 ```shell
 python binHeatmap.py -s ../data/merbin_IBD_allparent.txt -b ../data/mergbin_info_all.txt -l ../data/name.list -o output
 ```
+
+结果示意图:
+![结果示意图](scripts/output/1.pdf "chr1")
